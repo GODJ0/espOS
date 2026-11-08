@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.template
+network_config.py
+__pycache__/
+*.pyc
+*.espos-tmp
+dist/
+dist-electron/
+.turbo/
+*.log
